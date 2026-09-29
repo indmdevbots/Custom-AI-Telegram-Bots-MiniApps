@@ -6,4 +6,4 @@ Beautiful Telegram Customer Support AI Bots and MiniApp by InDMDev Teams of Deve
 Join our channel for more Bots like this: [@InDMDevBots](https://t.me/InDMDevBots)
 
 DM me for customizations: [@InDMDev](https://t.me/InDMDev)
-#From InDMDev
+#By InDMDev
